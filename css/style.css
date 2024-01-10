@@ -1,0 +1,33 @@
+.checker{
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #222;
+    width: 600px;
+    padding: 50px;
+}
+.checker h1{
+    margin-bottom: 50px;
+}
+form{
+    height: 100%;
+    width: 100%;
+}
+.inte{
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 20px;
+    display: block;
+}
+.btn{
+    padding: 15px 30px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    background-color: cadetblue;
+    border: transparent;
+}
+
+.result{
+    margin-top: 30px;
+}
